@@ -1,0 +1,5 @@
+2025-03-05 19:46:49 - INFO - Read 2 links from links.txt
+2025-03-05 19:46:50 - INFO - Started downloading: How programmers flex on each other
+2025-03-05 19:46:51 - INFO - Download complete: How programmers flex on each other
+2025-03-05 19:46:51 - INFO - Started downloading: How I Would Learn To Code If I Wasn't An Idiot
+2025-03-05 19:46:54 - INFO - Download complete: How I Would Learn To Code If I Wasn't An Idiot
