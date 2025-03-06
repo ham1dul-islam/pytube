@@ -26,7 +26,7 @@ Before running the script, ensure you have the following installed:
 1.  **Run the script:**
 
     ```bash
-    python your_script_name.py
+    python Main.py
     ```
 
 2.  **Choose Download Option:**
